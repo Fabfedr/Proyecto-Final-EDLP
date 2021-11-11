@@ -1,0 +1,162 @@
+* {margin: 0px;
+padding: 0px;}
+
+.navbar {
+    background-color: #1a1a1af8 !important;
+    padding: 15px 0px 0px 0px;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+}
+
+.navbar-nav .nav-link {
+    color:#f8f8f8 !important;
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgb(201, 39, 39) !important;
+   text-decoration: underline;
+    
+}
+ 
+
+.collapse  {
+    justify-content: center;
+    padding-right: 20px;
+}
+
+.container {margin-top: 20px;
+    background-color: #0e0e0ef8;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.imagenGrid {
+    border-radius: 5px;
+text-align: center;
+
+    -webkit-transition:all .5s ease;
+    -moz-transition:all .5s ease; 
+    -o-transition:all .5s ease;
+    -ms-transition:all .5s ease; 
+    width:100%;
+
+
+}
+
+.imagenGrid:hover {
+
+        -webkit-transform:scale(0.75);
+        -moz-transform:scale(0.75);
+        -ms-transform:scale(0.75);
+        -o-transform:scale(0.75);
+        transform:scale(0.75);
+}
+
+.tituloGrid {
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    font-size: 20PX;
+}
+
+.tituloGrid:hover {
+    text-align: center;
+    font-weight: 500;
+    color: rgb(189, 31, 31);
+}
+.row {
+    text-align: center;
+}
+
+.textoGrid {
+    color: white;
+    font-size: 14px;
+}
+
+.divHistoria{
+    margin-top: 20px;
+    background-color:  rgb(189, 31, 31) ;
+    padding: 30px 0px 10px 0px;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+
+.historia{
+    background-color:  rgb(189, 31, 31) ;
+    padding: 30px 30px 30px 30px;
+}
+
+.tituloHistoria {
+    color: white;
+    padding-top: 25px;
+    text-align: center;
+    
+    }
+
+#separar {
+    border: 1px solid white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.tituloHistoria {
+color: white;
+padding-top: 20px;
+}
+
+
+.tituloHistoria:hover {
+    color: black;
+    }
+
+.parrafoHistoria {
+    color: white;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+}
+
+
+.imagenHistoria {
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.navbar-toggler {
+    background-color:  rgb(189, 31, 31)  !important;
+    border: none !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.homenaje {
+ font-size: 30px;
+ color: white;
+ text-align: center;
+}
+
+.blanco:hover {
+    color:   rgb(189, 31, 31) !important; 
+}
+
+.pie {
+    background-color: black;
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+a {
+    color: white !important;
+    font-size: 12px;
+}
