@@ -131,8 +131,10 @@ padding-top: 20px;
 }
 
 .navbar-toggler {
-    background-color:  rgb(189, 31, 31)  !important;
+    background-color:  rgb(228, 228, 228)  !important;
     border: none !important;
+    margin-right: 20px;
+   
 }
 
 .navbar-toggler:focus {
@@ -159,4 +161,9 @@ padding-top: 20px;
 a {
     color: white !important;
     font-size: 12px;
+}
+
+li {
+    padding-left: 15px;
+
 }
